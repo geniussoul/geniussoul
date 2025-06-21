@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me martandmishra4445@gmail.com
 - 😄 Pronouns: genius scholar
-- ⚡ Fun fact: 
-
-<!---
-geniussoul/geniussoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun fact: geniussoul/geniussoul is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
