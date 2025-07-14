@@ -55,7 +55,10 @@ Whether it's a translator, a PIN checker, or a digital clock—I code for clarit
 
 ## 📄 Resume
 
-You can download my resume here 👇
+You can download and view my resume here 👇
+
+🔗 [View My Resume (PDF)](https://github.com/geniussoul/geniussoul/blob/main/Martand_Mishra_Resume.pdf)
+
 
 🔗 [Download My Resume (PDF)](https://github.com/geniussoul/geniussoul/raw/main/Martand_Mishra_Resume.pdf)
 
