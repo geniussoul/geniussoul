@@ -16,6 +16,41 @@
 
 ---
 
+### 🧭 Personal Mission
+> _"To build digital tools that make life simpler, safer, and just a little bit cooler."_
+
+Whether it's a translator, a PIN checker, or a digital clock—I code for clarity and purpose.
+
+---
+
+### 🔧 What I'm Working on Right Now
+- A smarter version of my Voice Assistant with ChatGPT integration 🤖🗣️  
+- Learning system design fundamentals 🏗️  
+- Exploring backend dev with Flask & MongoDB  
+- Building a coding interview prep tool for CS students
+
+---
+
+### 🎨 Hobbies & Interests
+- 📚 Reading sci-fi novels (Asimov is therapy 💭🚀)  
+- 🎧 Listening to music while solving bugs  
+- ✍️ Writing poetic lines that sound like logs from a space-time traveler  
+- 🎮 Casual gaming (strategy & simulation fan)  
+- 🛠️ Building small tools that make life easier  
+- 🌌 Stargazing and overthinking existential things  
+
+---
+
+### 📌 2025 Goals
+- [x] Publish 10+ GitHub projects  
+- [x] Hit 100+ commits  
+- [x] Land at least 1 internship in tech  
+- [ ] Build a portfolio website  
+- [ ] Contribute to an open-source project  
+- [ ] Launch a personal blog  
+
+---
+
 ### 🧰 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -56,9 +91,26 @@
 
 ---
 
+### 🔥 Dev Quotes I Live By
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson  
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+> “Make it work. Make it right. Make it fast.” – Kent Beck  
+> “Your mobile PIN is your first line of defense. Don’t make it your weakest link.” – Genius
+
+---
+
+### 🧲 Visitor Badge
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=geniussoul&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+---
+
 ### 🌌 A Final Thought
 > “Between the stars and the code, I search for meaning — and sometimes bugs.”  
 > – Genius
 
-
+---
 
