@@ -51,6 +51,15 @@ Whether it's a translator, a PIN checker, or a digital clock—I code for clarit
 
 ---
 
+
+
+## 📄 Resume
+
+You can download my resume here 👇
+
+🔗 [Download My Resume (PDF)](https://github.com/geniussoul/geniussoul/raw/main/100 ats resume.pdf)
+
+
 ### 🧰 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
