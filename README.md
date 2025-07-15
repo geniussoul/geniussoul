@@ -85,7 +85,8 @@ From a humble digital clock to a voice assistant with ChatGPT integration—I wr
 
 ## 📄 Resume
 
-📥 [**View My Resume (PDF)**](https://github.com/geniussoul/geniussoul/blob/main/Resume.pdf)  
+📥 📥 [View My Resume (PDF)](https://github.com/geniussoul/geniussoul/blob/main/Martand_Mishra_Resume.pdf)
+
 📩 Want to collaborate or hire me? Drop me a line at **martandmishra473@gmail.com**
 
 ---
